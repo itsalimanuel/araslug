@@ -1,0 +1,32 @@
+{
+  "name": "arabicslug",
+  "version": "1.0.1",
+  "description": "Translate your website URL from Arabic to English",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsalimanuel/araslug.git"
+  },
+  "keywords": [
+    "Laravel",
+    "translate",
+    "slug",
+    "arabic",
+    "arslug",
+    "href",
+    "url",
+    "arabicslug",
+    "php",
+    "composer",
+    "package"
+  ],
+  "author": "Ali Khalouf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsalimanuel/araslug/issues"
+  },
+  "homepage": "https://github.com/itsalimanuel/araslug#readme"
+}
